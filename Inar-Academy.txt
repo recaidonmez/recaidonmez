@@ -1,2 +1,3 @@
 "Welcome to Inar Academy's Git Tutoria
 Recai
+Çeşitli konularda kurslar veriyoruz
